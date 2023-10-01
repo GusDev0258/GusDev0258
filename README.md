@@ -1,5 +1,29 @@
 # 💫 About Me:
-I'm currently a intern at UDESC EMPDS, learning React,Angular,Java and Node. Enthusiast on design loving designing new interfaces
+### Hi there, I'm Gustavo Avelar 👋
+
+I'm a passionate Software Engineering student at Universidade do Estado de Santa Catarina (UDESC), Brazil, with a strong drive to create captivating digital experiences. My journey in the world of technology has been nothing short of exhilarating, as I strive to bridge the gap between creativity and functionality.
+
+🌟 **My Skills and Interests:**
+
+- 💻 Currently mastering both frontend and backend technologies, including React, Angular, Java, and Node.js.
+- 🚀 Enthusiastic about designing and prototyping user interfaces that captivate and drive results. I believe that a well-crafted interface can help clients sell more effectively.
+- 👨‍💻 Actively seeking opportunities to grow as a Software Engineer and put my skills to the test.
+- 🔗 Keen on exploring the limitless possibilities of web development and creating solutions that make a real impact.
+
+🌱 **Currently:**
+
+- 📚 Pursuing my Software Engineering degree at UDESC while continuously expanding my knowledge and honing my coding skills.
+- 💼 Gaining practical experience as a Software Engineer Intern at EMPDS, UDESC, where I'm applying classroom learning to real-world projects.
+
+🚀 **Let's Connect:**
+
+- 📧 Feel free to reach out to me at [gustavo.hernandes0258@gmail.com](mailto:gustavo.hernandes0258@gmail.com).
+- 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/gusdev0258/), where I love engaging in tech discussions and networking.
+
+🌍 **Languages:** Fluent in Portuguese and English, Basic German and Spanish.
+
+🌟 I'm excited to be part of the dynamic world of software development and eager to contribute my skills and creativity to the tech community. Let's code the future together! 💡
+
 
 
 ## 🌐 Socials:

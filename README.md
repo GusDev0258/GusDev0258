@@ -17,7 +17,6 @@ I'm a passionate Software Engineering student at Universidade do Estado de Santa
 
 🚀 **Let's Connect:**
 
-- 📧 Feel free to reach out to me at [gustavo.hernandes0258@gmail.com](mailto:gustavo.hernandes0258@gmail.com).
 - 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/gusdev0258/), where I love engaging in tech discussions and networking.
 
 🌍 **Languages:** Fluent in Portuguese and English, Basic German and Spanish.

@@ -1,7 +1,7 @@
 # Sobre mim:
 ### Olá, sou o Gustavo Hernandes Furtado de Avelar, mas pode me chamar de Gustavo 👋
 
-Sou um estudante de Engenharia de Software na Universidade de Santa Catarina (UDESC), estou atualmente (2025.2) no 8/8 semestre
+Graduado em Engenharia de Software pela Universidade do Estado de Santa Catarina (UDESC)
 
 Atualmente trabalhando como Desenvolvedor FullStack na Meucrediario
 
